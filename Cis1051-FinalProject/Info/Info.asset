@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb67a9fc9dfc0dc4aa18d25af018c6f3, type: 3}
+  m_Name: Info
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: data
+      Entry: 7
+      Data: 0|WuLin.ModEditor.GameModInfo+GameModInfoData, Assembly-CSharp-Editor
+    - Name: Name
+      Entry: 1
+      Data: Hero Adventure Mod
+    - Name: Author
+      Entry: 1
+      Data: Jinhui chen
+    - Name: Publicity
+      Entry: 3
+      Data: 0
+    - Name: Description
+      Entry: 1
+      Data: 'This Mod is for the cis1051 final project made by jinhui Chen 4/28/24.
+
+        This
+        mod includes new skill designs, and all items are sold for one copper coin.'
+    - Name: Tags
+      Entry: 7
+      Data: 1|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 1
+      Data: "ModTag_\u6280\u80FD"
+    - Name: 
+      Entry: 1
+      Data: "ModTag_\u9053\u5177"
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

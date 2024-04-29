@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1422784213, guid: 8ca77eba8feab13448f406b1857cbe06, type: 3}
+  m_Name: BuffData
+  m_EditorClassIdentifier: 
+  type: GameData.BuffDataScriptObject
+  dataGroup: 
+  patchData: []
+  newData:
+  - "{\r\n  \"uid\": \"9800\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3buff1\",\r\n 
+    \"isVisible\": false,\r\n  \"hasTeamMemberLog\": false,\r\n  \"isPositive\":
+    true,\r\n  \"couldDuplicate\": false,\r\n  \"locKey\": \"\u4E5D\u9633\u795E\u62F3buff1\",\r\n 
+    \"icon\": \"\",\r\n  \"visualEffect\": \"\",\r\n  \"rarity\": \"0\",\r\n  \"tickType\":
+    \"Infinite\",\r\n  \"lifeTime\": \"1\",\r\n  \"continousEffect\": [],\r\n  \"instantEffect\":
+    [],\r\n  \"endRemoveEffect\": [],\r\n  \"dynamicModifier\": [\r\n    \"JiuYangShenQuan1\"\r\n 
+    ],\r\n  \"battleAruas\": [],\r\n  \"tags\": [],\r\n  \"tagsForActive\": [],\r\n 
+    \"tagsNotActive\": [],\r\n  \"clearTags\": [\r\n    \"\u51FA\u624B\u7ED3\u675F\"\r\n 
+    ],\r\n  \"tagKillOnActive\": [],\r\n  \"teammateBuff\": null,\r\n  \"displayType\":
+    \"\"\r\n}"

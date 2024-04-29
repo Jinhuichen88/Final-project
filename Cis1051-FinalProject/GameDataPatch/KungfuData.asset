@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1422784213, guid: 8ca77eba8feab13448f406b1857cbe06, type: 3}
+  m_Name: KungfuData
+  m_EditorClassIdentifier: 
+  type: GameData.KungfuDataScriptObject
+  dataGroup: 
+  patchData: []
+  newData:
+  - "{\r\n  \"uid\": \"40923\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3\",\r\n 
+    \"isUnique\": \"FALSE\",\r\n  \"uniqueType\": \"\",\r\n  \"isDisplayed\": \"TRUE\",\r\n 
+    \"couldDualStrike\": \"TRUE\",\r\n  \"kungfuType\": \"Outernal\",\r\n  \"maxLevel\":
+    \"10\",\r\n  \"rarity\": \"3\",\r\n  \"levelUpExpNeed\": \"R3\",\r\n  \"outerForceType\":
+    \"\u62F3\u638C\",\r\n  \"interForceType\": \"All\",\r\n  \"characterPropNeed\":
+    [\r\n    \"\u62F3\u638C|5|-1\"\r\n  ],\r\n  \"characterPropNeedToCast\": [],\r\n 
+    \"icon\": \"40602\",\r\n  \"animClipName\": \"Attack1\",\r\n  \"kungfuAffectLevelEnemy\":
+    \"Full\",\r\n  \"kungfuAffectLevelAllie\": \"FirendlyFire\",\r\n  \"kungfuAffectLevelSelf\":
+    \"None\",\r\n  \"kungfuSpMoves\": [],\r\n  \"kungfuDmgAftByPropsOffset\": [\r\n   
+    \"\u654F\u6377|0.05|0.5\"\r\n  ],\r\n  \"coolDown\": \"0\",\r\n  \"kungfuEventList\":
+    \"\",\r\n  \"isBasicAttack\": \"FALSE\",\r\n  \"needWeaponToCast\": [\r\n   
+    \"Equip_Weapon_None\",\r\n    \"Equip_Weapon_Glove\"\r\n  ],\r\n  \"activeInternalBuffs\":
+    [],\r\n  \"activeInternalEffect\": [],\r\n  \"nonActiveInternalEffect\": [],\r\n 
+    \"learntBuff\": \"\",\r\n  \"castBuffs\": [\r\n    \"\u4E5D\u9633\u795E\u62F3buff1\uFF0C\u4E5D\u9633\u795E\u62F3buff2\uFF0C\u4E5D\u9633\u795E\u62F3buff3\"\r\n 
+    ],\r\n  \"couldTriggerMegaBlow\": \"TRUE\",\r\n  \"damageMultipyForMultiTarget\":
+    \"0\",\r\n  \"maxDamageMultipyCount\": \"0\",\r\n  \"castRule\": \"0\"\r\n}"

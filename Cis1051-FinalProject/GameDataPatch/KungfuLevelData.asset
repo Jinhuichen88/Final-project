@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1422784213, guid: 8ca77eba8feab13448f406b1857cbe06, type: 3}
+  m_Name: KungfuLevelData
+  m_EditorClassIdentifier: 
+  type: GameData.KungfuLevelDataScriptObject
+  dataGroup: 
+  patchData: []
+  newData:
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_1\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|3\",\r\n    \"\u653B\u51FB|30\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|6\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan1\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"270\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_2\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|6\",\r\n    \"\u653B\u51FB|60\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|12\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan1\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"320\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_3\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|9\",\r\n    \"\u653B\u51FB|90\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|18\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan1\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"370\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_4\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|12\",\r\n    \"\u653B\u51FB|120\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|24\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan1\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"420\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_5\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|15\",\r\n    \"\u653B\u51FB|150\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|30\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan1\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"470\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_6\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|18\",\r\n    \"\u653B\u51FB|180\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|36\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan1\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"520\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_7\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|21\",\r\n    \"\u653B\u51FB|210\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|42\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan1\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"570\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_8\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|24\",\r\n    \"\u653B\u51FB|240\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|48\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan1\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"620\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_9\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|27\",\r\n    \"\u653B\u51FB|270\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|54\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan2\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"670\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
+  - "{\r\n  \"uid\": \"0\",\r\n  \"uName\": \"\u4E5D\u9633\u795E\u62F3_10\",\r\n 
+    \"characterPropAdd\": [\r\n    \"\u62F3\u638C|37\",\r\n    \"\u653B\u51FB|300\",\r\n   
+    \"\u6B66\u5B66\u5E38\u8BC6|60\"\r\n  ],\r\n  \"kungfuCastType\": \"FourWays\",\r\n 
+    \"kungfuCastRange\": \"1\",\r\n  \"kungfuAffectArea\": [\r\n    \"Quan_jiuyangshenquan2\"\r\n 
+    ],\r\n  \"effectAnim\": \"582\",\r\n  \"kungfuEffectDirRule\": \"Caster\",\r\n 
+    \"preEffectAnim\": \"\",\r\n  \"effectDelayIgnorePreEffect\": \"0\",\r\n  \"uniqueCost\":
+    \"0\",\r\n  \"epCost\": \"50\",\r\n  \"power\": \"720\",\r\n  \"spArtsRate\":
+    \"0.3\",\r\n  \"internalAtk\": \"0\",\r\n  \"internalDef\": \"0\",\r\n  \"internalActiveRate\":
+    \"0\",\r\n  \"modifierTags\": []\r\n}"
