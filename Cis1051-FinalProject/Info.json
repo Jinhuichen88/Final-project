@@ -1,0 +1,10 @@
+{
+  "Name": "Hero Adventure Mod",
+  "Author": "Jinhui chen",
+  "Publicity": 0,
+  "Description": "This Mod is for the cis1051 final project made by jinhui Chen 4/28/24.\nThis mod includes new skill designs, and all items are sold for one copper coin.",
+  "Tags": [
+    "ModTag_技能",
+    "ModTag_道具"
+  ]
+}
